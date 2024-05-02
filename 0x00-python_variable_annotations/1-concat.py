@@ -6,5 +6,4 @@
 def concat(str1: str, str2: str) -> str:
     '''Concatenates two strings.
     '''
-    concatenate = str1 + str2
-    return concatenate
+    return str1 + str2
